@@ -1,0 +1,12 @@
+id,peer_group_name,company_id,is_benchmark
+1,Private Banks,HDFCBANK,True
+6,Public Sector Banks,SBIN,True
+10,IT Services,TCS,True
+15,Pharmaceuticals,SUNPHARMA,True
+20,Automobiles,MARUTI,True
+27,Life Insurance,LICI,True
+31,Oil & Gas,RELIANCE,True
+36,Power & Utilities,NTPC,True
+43,Steel,TATASTEEL,True
+47,FMCG,HINDUNILVR,True
+54,Consumer Finance,BAJFINANCE,True
