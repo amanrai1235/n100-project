@@ -1,0 +1,8 @@
+column_name,missing_values,missing_percentage
+company_id,0,0.0
+year,0,0.0
+return_on_equity_pct,0,0.0
+debt_to_equity,0,0.0
+interest_coverage,93,7.85472972972973
+asset_turnover,1,0.08445945945945946
+dividend_payout_ratio,4,0.33783783783783783
