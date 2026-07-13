@@ -1,0 +1,5 @@
+filter_name,records_found
+ROE >= 15%,672
+Debt to Equity <= 1,700
+Quality Filter,420
+Advanced Filter,381
