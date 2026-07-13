@@ -1,0 +1,727 @@
+company_id,peer_group_name,is_benchmark,broad_sector,sub_sector,market_cap_category,peer_group_size,overall_peer_percentile,overall_peer_rank,peer_performance_class
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,70.52631578947368,1.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,70.0,2.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,68.24561403508773,3.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,68.03508771929825,4.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,67.2280701754386,5.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,65.99999999999999,6.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,64.49122807017542,7.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,64.14035087719299,8.0,Above Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,63.40350877192983,9.0,Above Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,62.87719298245614,10.0,Above Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,62.807017543859644,11.0,Above Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,62.03508771929826,12.0,Above Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,61.157894736842096,13.0,Above Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,59.1578947368421,14.0,Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,59.052631578947384,15.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,58.00000000000001,16.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,57.92982456140351,17.0,Peer Average
+HEROMOTOCO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,57.824561403508774,18.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,57.1578947368421,19.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,56.87719298245615,20.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,56.84210526315789,21.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,56.771929824561404,22.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,56.526315789473685,23.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,56.42105263157895,24.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,55.964912280701746,25.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,55.614035087719294,26.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,55.57894736842105,27.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,54.70175438596491,28.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,53.96491228070176,29.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,53.894736842105274,30.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,53.78947368421053,31.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,53.719298245614034,32.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,53.508771929824555,33.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,53.43859649122807,34.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,53.01754385964912,35.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,52.94736842105263,36.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,52.80701754385965,37.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,52.73684210526316,38.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,52.49122807017544,39.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,52.10526315789475,40.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,51.999999999999986,41.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,51.33333333333333,42.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,51.26315789473684,43.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,51.228070175438596,44.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,50.94736842105263,45.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,50.877192982456144,46.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,50.73684210526315,47.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,50.66666666666666,48.0,Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,50.315789473684205,49.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,50.175438596491226,50.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,50.035087719298254,51.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,49.1578947368421,52.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,48.94736842105263,53.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,48.771929824561404,54.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,48.73684210526316,55.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,48.666666666666664,56.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,48.56140350877193,57.0,Peer Average
+BAJAJ-AUTO,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,48.49122807017544,58.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,47.71929824561403,59.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,47.087719298245624,60.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,45.85964912280702,61.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,45.614035087719294,62.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,45.40350877192983,63.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,45.333333333333336,64.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,45.228070175438596,65.0,Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,45.22807017543859,66.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,45.122807017543856,67.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,44.56140350877193,68.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,44.52631578947368,69.0,Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,44.280701754385966,70.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,44.24561403508772,71.0,Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,43.824561403508774,72.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,43.578947368421055,73.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,43.05263157894737,74.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,42.94736842105263,75.0,Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,42.70175438596491,76.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,42.38596491228069,77.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,42.28070175438597,78.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,42.03508771929823,79.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,42.00000000000001,80.0,Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,41.929824561403514,81.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,41.78947368421053,82.0,Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,40.771929824561404,83.0,Peer Average
+TVSMOTOR,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,40.56140350877194,84.0,Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,39.859649122807014,85.0,Below Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,39.333333333333336,86.0,Below Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,38.8421052631579,87.0,Below Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,38.45614035087719,88.0,Below Peer Average
+TATAMOTORS,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,38.035087719298254,89.0,Below Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,37.929824561403514,90.0,Below Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,37.333333333333336,91.0,Below Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,37.228070175438596,92.0,Below Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,36.28070175438597,93.0,Below Peer Average
+M&M,Automobiles,False,Consumer Discretionary,Automobiles,Large Cap,7,36.14035087719298,94.0,Below Peer Average
+EICHERMOT,Automobiles,False,Consumer Discretionary,Two Wheelers,Large Cap,7,35.78947368421053,95.0,Below Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,64.80392156862744,1.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,63.41239721695129,2.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,60.411132194813405,3.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,60.041113219481325,4.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,58.083491461100564,5.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,57.77356103731815,6.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,57.69765970904491,7.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,57.48260594560405,8.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,55.62618595825427,9.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,54.614168247944335,10.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,54.376976597090454,11.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,54.0290955091714,12.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,53.81720430107527,13.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,53.61796331435801,14.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,51.38519924098672,15.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,50.96774193548387,16.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,50.735294117647065,17.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,50.053763440860216,18.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,49.85135989879823,19.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,49.7786211258697,20.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,49.48134092346617,21.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,49.33586337760911,22.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,49.08602150537634,23.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,48.981657179000635,24.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,48.848829854522464,25.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,48.02340290955091,26.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,47.74193548387096,27.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,46.63865546218487,28.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,45.996204933586334,29.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,45.7983193277311,30.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,42.802024035420615,31.0,Peer Average
+CHOLAFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,42.06198608475649,32.0,Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,38.270082226438966,33.0,Below Peer Average
+SHRIRAMFIN,Consumer Finance,False,Financials,Consumer Finance,Large Cap,3,37.91903858317521,34.0,Below Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,69.95458022566456,1.0,Above Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,69.93832472748134,2.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,67.60996366418054,3.0,Above Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,67.21744119334481,4.0,Above Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,65.38343851596865,5.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,65.02916427615223,6.0,Above Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,64.8847772040543,7.0,Above Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,63.587205966724035,8.0,Above Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,62.969018932874356,9.0,Above Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,62.73809523809523,10.0,Above Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,62.52390514438708,11.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,62.24086823484414,12.0,Above Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,62.12421113023523,13.0,Above Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,62.099349780072664,14.0,Above Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,60.86106330082233,15.0,Above Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,60.467106521323394,16.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,60.02103652706062,17.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,59.4611780455154,18.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,59.24507554025627,19.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,59.12507171543316,20.0,Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,58.91661885637789,21.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,58.286479250334665,22.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,58.000095620577554,23.0,Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,57.65729585006693,24.0,Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,57.494740868234835,25.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,55.586632243258734,26.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,55.53977816026009,27.0,Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,55.37100784088736,28.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,55.306942053930015,29.0,Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,55.281602600879715,30.0,Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,54.805412124689234,31.0,Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,54.765729585006696,32.0,Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,54.17336010709504,33.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,54.07439280933257,34.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,53.75932300631096,35.0,Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,53.580512526295664,36.0,Peer Average
+ITC,FMCG,False,Consumer Staples,Diversified FMCG,Large Cap,7,53.096194301013576,37.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,52.63195639701665,38.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,52.03576209600307,39.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,51.18760757314975,40.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,50.79460699942627,41.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,50.68942436412316,42.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,50.31028877414419,43.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,50.042551157008994,44.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,49.71839739912029,45.0,Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,48.38305603365844,46.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,48.10623446165616,47.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,47.65490533562822,48.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,47.612832281506975,49.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,47.32118951998469,50.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,47.18540829986613,51.0,Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,47.07018550392044,52.0,Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,46.06282271944922,53.0,Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,45.8491107286288,54.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,45.633486326257405,55.0,Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,45.56894243641232,56.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,45.20414993306559,57.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,45.161598776056614,58.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,44.90485752533946,59.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,44.54436794798241,60.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,43.57993197278911,61.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,43.309428188946264,62.0,Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,43.07276725951426,63.0,Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,43.026869382291075,64.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,43.0225664563014,65.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,42.82558806655192,66.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,42.66685790782176,67.0,Peer Average
+GODREJCP,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,42.38908013004398,68.0,Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,40.8825779307707,69.0,Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,40.80703767450756,70.0,Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,40.59380378657487,71.0,Peer Average
+NESTLEIND,FMCG,False,Consumer Staples,Food Products,Large Cap,7,39.746127366609294,72.0,Below Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,39.02658252055843,73.0,Below Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,38.117708930961946,74.0,Below Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,37.64390896921017,75.0,Below Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,36.8043602983362,76.0,Below Peer Average
+DABUR,FMCG,False,Consumer Staples,Personal Products,Large Cap,7,36.76659017020462,77.0,Below Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,36.201472556894245,78.0,Below Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,35.72767259514248,79.0,Below Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,34.98278829604131,80.0,Below Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,34.35217058711034,81.0,Below Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,33.49684452094091,82.0,Below Peer Average
+BRITANNIA,FMCG,False,Consumer Staples,Food Products,Large Cap,7,33.20137693631669,83.0,Below Peer Average
+TATACONSUM,FMCG,False,Consumer Staples,Food & Beverages,Large Cap,7,30.47714668196596,84.0,Below Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,78.62425298056999,1.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,76.14867313332732,2.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,74.78895262119983,3.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,73.37829964863809,4.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,71.82090553269867,5.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,65.75638908075318,6.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,65.60534350380892,7.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,65.56400092094859,8.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,64.2728710571889,9.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,64.12033394396228,10.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,63.91563310209516,11.0,Above Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,63.36278366717718,12.0,Above Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,63.09724015736209,13.0,Above Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,60.83768281329769,14.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,59.886743345646,15.0,Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,59.18888455108762,16.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,58.61987847482907,17.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,58.55188844509845,18.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,56.76676977286605,19.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,56.58726488282932,20.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,55.508513769182265,21.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,54.3506912119483,22.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,53.87928566423417,23.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,53.563059951750304,24.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,53.532068030070974,25.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,52.18272821005635,26.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,51.790734456490185,27.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,51.69683774287516,28.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,51.27860696517413,29.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,50.678408761023846,30.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,50.391743495800675,31.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,50.00847873309509,32.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,49.96157041753006,33.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,49.91458201948006,34.0,Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,49.64068991060792,35.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,49.49836331421364,36.0,Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,49.17073871802243,37.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,47.36589687378,38.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,47.214581018449,39.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,47.0214420853479,40.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,46.92754537173288,41.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,46.90398110053354,42.0,Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,46.626615413876294,43.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,46.47866302291361,44.0,Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,46.13523929647536,45.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,45.805159314093515,46.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,44.87740372583762,47.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,44.78350701222259,48.0,Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,44.75855130784707,49.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,44.631350290799524,50.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,44.2443016306796,51.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,44.15040491706457,52.0,Peer Average
+LTIM,IT Services,False,Information Technology,IT Services,Large Cap,5,43.390662382253716,53.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,42.24171897053966,54.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,42.14782225692464,55.0,Peer Average
+HCLTECH,IT Services,False,Information Technology,IT Services,Large Cap,5,41.23419121695346,56.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,41.211217554080704,57.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,41.11732084046568,58.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,40.52681261699551,59.0,Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,40.43291590338049,60.0,Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,39.392785283127346,61.0,Below Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,39.16355274504168,62.0,Below Peer Average
+INFY,IT Services,False,Information Technology,IT Services,Large Cap,5,38.94006898534061,63.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,37.68999069041112,64.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,37.59609397679609,65.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,35.094377208524776,66.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,35.00048049490976,67.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,34.65830805729902,68.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,34.56441134368399,69.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,34.237794928776644,70.0,Below Peer Average
+TECHM,IT Services,False,Information Technology,IT Services,Large Cap,5,34.14389821516161,71.0,Below Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,66.02891156462584,1.0,Above Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,62.980442176870746,2.0,Above Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,62.89589169000933,3.0,Above Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,62.042016806722685,4.0,Above Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,61.736227824463114,5.0,Above Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,59.92673992673992,6.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,59.448412698412696,7.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,58.817226890756295,8.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,58.17880485527544,9.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,58.05835667600374,10.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,57.66176470588234,11.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,57.406629318394025,12.0,Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,57.20663265306122,13.0,Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,56.9047619047619,14.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,56.44132653061224,15.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,56.16496598639456,16.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,55.195845004668534,17.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,54.70168067226891,18.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,54.146358543417364,19.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,53.274976657329596,20.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,53.05508870214753,21.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,53.04131652661064,22.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,50.330532212885146,23.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,49.631419234360415,24.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,49.0576563958917,25.0,Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,48.6904761904762,26.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,47.978758169934636,27.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,47.42950513538749,28.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,45.22198879551821,29.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,45.20424836601307,30.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,44.75933706816059,31.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,44.43113912231559,32.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,42.452614379084956,33.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,42.01423902894491,34.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,41.47689075630252,35.0,Peer Average
+SBILIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,40.80555555555555,36.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,40.59115312791784,37.0,Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,40.53425536881419,38.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,40.37464985994397,39.0,Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,39.11204481792717,40.0,Below Peer Average
+HDFCLIFE,Life Insurance,False,Financials,Life Insurance,Large Cap,4,38.909197012138186,41.0,Below Peer Average
+ICICIPRULI,Life Insurance,False,Financials,Life Insurance,Large Cap,4,37.31676003734827,42.0,Below Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,69.0,1.0,Above Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,66.99999999999999,2.0,Above Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,66.16666666666667,3.0,Above Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,65.55555555555556,4.0,Above Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,64.0,5.0,Above Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,63.5,6.0,Above Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,62.944444444444436,7.0,Above Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,62.66666666666666,8.0,Above Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,60.66666666666666,9.0,Above Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,60.05555555555555,10.0,Above Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,59.777777777777786,11.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,59.22222222222222,12.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,59.22222222222221,13.0,Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,59.16666666666666,14.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,59.05555555555556,15.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,58.11111111111111,16.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,58.0,17.0,Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,56.888888888888886,18.0,Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,56.66666666666667,19.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,56.222222222222236,20.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,55.99999999999999,21.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,54.722222222222236,22.0,Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,54.61111111111111,23.0,Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,54.50000000000001,24.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,53.777777777777764,25.0,Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,53.722222222222236,26.0,Peer Average
+ONGC,Oil & Gas,False,Energy,Oil & Gas Exploration,Large Cap,5,52.94444444444446,27.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,51.833333333333336,28.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,51.777777777777786,29.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,51.55555555555556,30.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,51.444444444444436,31.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,51.22222222222222,32.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,50.833333333333336,33.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,50.1111111111111,34.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,49.77777777777779,35.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,48.05555555555555,36.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,47.88888888888889,37.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,47.66666666666666,38.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,47.333333333333336,39.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,46.777777777777786,40.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,45.11111111111111,41.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,45.05555555555555,42.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,44.611111111111114,43.0,Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,44.166666666666664,44.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,43.666666666666664,45.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,43.16666666666666,46.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,42.333333333333336,47.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,42.11111111111111,48.0,Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,41.44444444444444,49.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,40.44444444444445,50.0,Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,38.277777777777786,51.0,Below Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,38.27777777777778,52.0,Below Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,37.72222222222222,53.0,Below Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,37.44444444444444,54.0,Below Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,36.38888888888889,55.0,Below Peer Average
+BPCL,Oil & Gas,False,Energy,Oil & Gas Refining,Large Cap,5,34.722222222222214,56.0,Below Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,32.111111111111114,57.0,Below Peer Average
+IOC,Oil & Gas,False,Energy,Oil & Gas Refining,Mid Cap,5,30.66666666666667,58.0,Below Peer Average
+GAIL,Oil & Gas,False,Energy,Gas Distribution,Large Cap,5,29.999999999999996,59.0,Below Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,68.1111111111111,1.0,Above Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,64.94444444444444,2.0,Above Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,62.944444444444436,3.0,Above Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,61.444444444444436,4.0,Above Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,61.0,5.0,Above Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,60.94444444444444,6.0,Above Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,60.611111111111114,7.0,Above Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,60.555555555555564,8.0,Above Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,60.333333333333336,9.0,Above Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,59.55555555555555,10.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,59.055555555555564,11.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,57.611111111111114,12.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,55.27777777777778,13.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,55.11111111111111,14.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,54.94444444444445,15.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,54.61111111111111,16.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,54.55555555555555,17.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,53.88888888888889,18.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,53.833333333333336,19.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,53.55555555555555,20.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,53.33333333333333,21.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,53.22222222222222,22.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,53.0,23.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,52.55555555555555,24.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,52.11111111111111,25.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,52.05555555555556,26.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,51.722222222222214,27.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,51.666666666666664,28.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,50.83333333333334,29.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,50.777777777777786,30.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,50.38888888888889,31.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,50.277777777777786,32.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,50.16666666666666,33.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,50.111111111111114,34.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,49.44444444444444,35.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,49.222222222222236,36.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,49.22222222222222,37.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,49.05555555555556,38.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,48.5,39.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,48.0,40.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,47.722222222222236,41.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,47.66666666666667,42.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,47.166666666666664,43.0,Peer Average
+DIVISLAB,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,46.66666666666667,44.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,46.5,45.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,45.833333333333336,46.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,45.166666666666664,47.0,Peer Average
+TORNTPHARM,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,44.94444444444444,48.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,44.38888888888889,49.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,44.33333333333333,50.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,42.611111111111114,51.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,42.388888888888886,52.0,Peer Average
+DRREDDY,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Mid Cap,5,42.222222222222236,53.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,41.666666666666664,54.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,41.277777777777786,55.0,Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,40.22222222222222,56.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,39.88888888888889,57.0,Below Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,38.111111111111114,58.0,Below Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,36.833333333333336,59.0,Below Peer Average
+CIPLA,Pharmaceuticals,False,Healthcare,Pharmaceuticals,Large Cap,5,35.833333333333336,60.0,Below Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,74.85507246376811,1.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,74.78260869565217,2.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,74.49275362318842,3.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,74.42028985507248,4.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,74.1304347826087,5.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,74.05797101449275,6.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,72.71739130434781,7.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,72.64492753623186,8.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,71.92028985507247,9.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,71.84782608695652,10.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,68.07971014492753,11.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,66.9927536231884,12.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,66.95652173913042,13.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,66.92028985507245,14.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,66.37681159420289,15.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,63.514492753623195,16.0,Above Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,62.427536231884076,17.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,62.173913043478265,18.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,62.10144927536233,19.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,60.036231884057976,20.0,Above Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,59.96376811594204,21.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,58.51449275362317,22.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,57.427536231884055,23.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,57.210144927536234,24.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,56.84782608695653,25.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,56.70289855072463,26.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,56.44927536231884,27.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,55.76086956521739,28.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,55.68840579710145,29.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,55.362318840579725,30.0,Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,55.36231884057972,31.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,55.326086956521735,32.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,55.28985507246377,33.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,55.03623188405797,34.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,54.60144927536232,35.0,Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,54.20289855072464,36.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,54.094202898550726,37.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,54.02173913043478,38.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,53.913043478260875,39.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,53.84057971014492,40.0,Peer Average
+POWERGRID,Power & Utilities,False,Energy,Power Transmission,Large Cap,7,53.768115942028984,41.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,52.02898550724638,42.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,51.1231884057971,43.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,50.97826086956522,44.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,50.942028985507235,45.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,50.79710144927537,46.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,50.72463768115942,47.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,50.68840579710145,48.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,50.688405797101446,49.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,50.25362318840578,50.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,50.14492753623188,51.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,49.927536231884055,52.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,48.87681159420289,53.0,Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,48.47826086956522,54.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,48.44202898550725,55.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,47.71739130434783,56.0,Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,46.8840579710145,57.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,46.26811594202899,58.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,45.79710144927535,59.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,45.61594202898551,60.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,44.855072463768124,61.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,44.71014492753623,62.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,44.71014492753623,62.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,44.456521739130444,63.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,44.239130434782616,64.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,43.84057971014492,65.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,42.75362318840579,66.0,Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,42.39130434782609,67.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,41.81159420289855,68.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,41.485507246376805,69.0,Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,40.94202898550724,70.0,Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,40.905797101449274,71.0,Peer Average
+TATAPOWER,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,40.76086956521739,72.0,Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,39.20289855072463,73.0,Below Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,37.68115942028985,74.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,37.60869565217391,75.0,Below Peer Average
+NHPC,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,36.81159420289854,76.0,Below Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,35.833333333333336,77.0,Below Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,35.25362318840579,78.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,33.6231884057971,79.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,32.31884057971015,80.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,32.10144927536232,81.0,Below Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,31.992753623188403,82.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,30.797101449275363,83.0,Below Peer Average
+JSWENERGY,Power & Utilities,False,Energy,Power & Utilities,Mid Cap,7,30.724637681159418,84.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,30.289855072463766,85.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,29.637681159420286,86.0,Below Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,29.166666666666668,87.0,Below Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,27.753623188405797,88.0,Below Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,25.869565217391305,89.0,Below Peer Average
+ADANIGREEN,Power & Utilities,False,Energy,Renewable Energy,Large Cap,7,24.71014492753623,90.0,Below Peer Average
+ADANIPOWER,Power & Utilities,False,Energy,Power & Utilities,Large Cap,7,23.55072463768116,91.0,Below Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,71.00000000000001,1.0,Above Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,66.55555555555557,2.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,66.27777777777779,3.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,64.5,4.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,62.833333333333336,5.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,62.5,6.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,60.5,7.0,Above Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,58.27777777777778,8.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,56.99999999999999,9.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,56.944444444444436,10.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,56.611111111111114,11.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,56.16666666666666,12.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,55.666666666666664,13.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,55.05555555555555,14.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,54.83333333333335,15.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,54.833333333333336,16.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,54.333333333333336,17.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,54.27777777777778,18.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,54.222222222222214,19.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,54.111111111111114,20.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,54.1111111111111,21.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,53.6111111111111,22.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,53.166666666666664,23.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,52.94444444444444,24.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,52.66666666666666,25.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,52.555555555555564,26.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,51.111111111111114,27.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,50.99999999999999,28.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,50.72222222222221,29.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,50.222222222222214,30.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,49.777777777777764,31.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,49.388888888888886,32.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,48.94444444444444,33.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,48.666666666666664,34.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,48.55555555555556,35.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,48.50000000000001,36.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,47.3888888888889,37.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,47.33333333333333,38.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,47.27777777777778,39.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,47.222222222222214,40.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,47.166666666666664,41.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,47.05555555555555,42.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,46.5,43.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,45.777777777777764,44.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,45.611111111111114,45.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,45.05555555555556,46.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,44.833333333333336,47.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,44.72222222222222,48.0,Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,44.44444444444445,49.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,44.277777777777764,50.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,44.05555555555555,51.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,43.88888888888889,52.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,43.5,53.0,Peer Average
+INDUSINDBK,Private Banks,False,Financials,Private Banks,Large Cap,5,42.66666666666666,54.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,42.111111111111114,55.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,40.777777777777786,56.0,Peer Average
+KOTAKBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,40.05555555555555,57.0,Peer Average
+ICICIBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,36.666666666666664,58.0,Below Peer Average
+AXISBANK,Private Banks,False,Financials,Private Banks,Large Cap,5,34.333333333333336,59.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,64.60622710622711,1.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,64.51465201465201,2.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,64.42307692307692,3.0,Above Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,64.4047619047619,4.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,64.33150183150184,5.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,64.23992673992674,6.0,Above Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,64.12698412698413,7.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,62.91208791208791,8.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,62.820512820512825,9.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,62.72893772893773,10.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,62.63736263736264,11.0,Above Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,62.545787545787555,12.0,Above Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,60.95238095238095,13.0,Above Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,60.03968253968253,14.0,Above Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,59.68253968253968,15.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,59.523809523809526,16.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,59.20329670329671,17.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,59.11172161172161,18.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,59.020146520146525,19.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,59.02014652014652,20.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,58.92857142857143,21.0,Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,58.888888888888886,22.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,58.836996336996336,23.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,58.74542124542124,24.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,58.65384615384615,25.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,57.96703296703296,26.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,57.87545787545787,27.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,57.783882783882774,28.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,57.692307692307686,29.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,57.600732600732584,30.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,57.0970695970696,31.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,57.00549450549451,32.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,56.913919413919416,33.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,56.82234432234433,34.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,56.73076923076924,35.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,55.59523809523809,36.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,55.357142857142854,37.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,55.265567765567766,38.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,55.17399267399267,39.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,55.15873015873016,40.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,55.082417582417584,41.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,54.99999999999999,42.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,54.990842490842496,43.0,Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,52.65873015873015,44.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,49.08730158730158,45.0,Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,49.00793650793652,46.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,48.80952380952381,47.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,48.41269841269842,48.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,47.817460317460316,49.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,46.47435897435897,50.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,46.38278388278388,51.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,46.291208791208796,52.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,46.1996336996337,53.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,46.10805860805861,54.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,45.87301587301587,55.0,Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,44.88095238095238,56.0,Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,44.48412698412699,57.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,42.811355311355314,58.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,42.71978021978022,59.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,42.628205128205124,60.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,42.53663003663004,61.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,42.44505494505495,62.0,Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,41.7063492063492,63.0,Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,41.30952380952382,64.0,Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,38.87362637362638,65.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,38.782051282051285,66.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,38.6904761904762,67.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,38.5989010989011,68.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,38.50732600732601,69.0,Below Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,36.78571428571429,70.0,Below Peer Average
+CANBK,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,35.11904761904762,71.0,Below Peer Average
+BANKBARODA,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,34.96031746031746,72.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,34.47802197802198,73.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,34.38644688644689,74.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,34.294871794871796,75.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,34.20329670329671,76.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,34.11172161172161,77.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,31.639194139194142,78.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,31.54761904761905,79.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,31.456043956043956,80.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,31.364468864468865,81.0,Below Peer Average
+PNB,Public Sector Banks,False,Financials,Public Sector Banks,Large Cap,3,31.272893772893774,82.0,Below Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,75.27777777777779,1.0,Above Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,72.08333333333333,2.0,Above Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,71.94444444444444,3.0,Above Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,71.1111111111111,4.0,Above Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,69.79166666666667,5.0,Above Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,63.402777777777764,6.0,Above Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,62.083333333333336,7.0,Above Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,61.736111111111114,8.0,Above Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,61.388888888888886,9.0,Above Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,59.93055555555555,10.0,Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,59.86111111111111,11.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,59.722222222222214,12.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,59.51388888888889,13.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,59.444444444444436,14.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,59.305555555555564,15.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,58.68055555555555,16.0,Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,57.43055555555556,17.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,55.13888888888889,18.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,54.93055555555556,19.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,54.93055555555554,20.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,54.86111111111111,21.0,Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,52.84722222222222,22.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,52.638888888888886,23.0,Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,52.56944444444446,24.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,52.152777777777786,25.0,Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,51.458333333333336,26.0,Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,51.45833333333333,27.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,51.18055555555555,28.0,Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,50.34722222222222,29.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,48.54166666666666,30.0,Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,48.33333333333333,31.0,Peer Average
+HINDALCO,Steel,False,Materials,Metals & Mining,Large Cap,4,47.916666666666664,32.0,Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,47.70833333333333,33.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,43.88888888888889,34.0,Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,43.47222222222222,35.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,40.06944444444444,36.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,39.09722222222222,37.0,Below Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,38.61111111111111,38.0,Below Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,37.56944444444445,39.0,Below Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,37.43055555555556,40.0,Below Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,37.013888888888886,41.0,Below Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,34.375,42.0,Below Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,33.26388888888889,43.0,Below Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,33.12499999999999,44.0,Below Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,32.0138888888889,45.0,Below Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,32.013888888888886,46.0,Below Peer Average
+JSWSTEEL,Steel,False,Materials,Steel,Large Cap,4,30.06944444444444,47.0,Below Peer Average
+JINDALSTEL,Steel,False,Materials,Steel,Large Cap,4,28.263888888888893,48.0,Below Peer Average

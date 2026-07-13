@@ -1,0 +1,112 @@
+company_id,peer_group_name,is_benchmark,broad_sector,sub_sector,market_cap_category,peer_group_size,overall_peer_percentile,overall_peer_rank,peer_performance_class
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,59.1578947368421,14.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,56.526315789473685,23.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,56.42105263157895,24.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,55.964912280701746,25.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,55.57894736842105,27.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,54.70175438596491,28.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,52.73684210526316,38.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,49.1578947368421,52.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,47.71929824561403,59.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,45.85964912280702,61.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,45.333333333333336,64.0,Peer Average
+MARUTI,Automobiles,True,Consumer Discretionary,Automobiles,Mid Cap,7,42.28070175438597,78.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,64.80392156862744,1.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,63.41239721695129,2.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,60.411132194813405,3.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,60.041113219481325,4.0,Above Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,58.083491461100564,5.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,55.62618595825427,9.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,54.614168247944335,10.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,50.96774193548387,16.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,49.08602150537634,23.0,Peer Average
+BAJFINANCE,Consumer Finance,True,Financials,Consumer Finance,Large Cap,3,48.848829854522464,25.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,69.95458022566456,1.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,67.60996366418054,3.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,65.02916427615223,6.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,62.24086823484414,12.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,60.02103652706062,17.0,Above Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,59.4611780455154,18.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,59.12507171543316,20.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,58.000095620577554,23.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,55.53977816026009,27.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,52.63195639701665,38.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,51.18760757314975,40.0,Peer Average
+HINDUNILVR,FMCG,True,Consumer Staples,FMCG,Mid Cap,7,50.68942436412316,42.0,Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,78.62425298056999,1.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,76.14867313332732,2.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,74.78895262119983,3.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,73.37829964863809,4.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,71.82090553269867,5.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,65.75638908075318,6.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,65.60534350380892,7.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,65.56400092094859,8.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,64.2728710571889,9.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,64.12033394396228,10.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,63.91563310209516,11.0,Above Peer Average
+TCS,IT Services,True,Information Technology,IT Services,Large Cap,5,59.886743345646,15.0,Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,62.89589169000933,3.0,Above Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,62.042016806722685,4.0,Above Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,59.92673992673992,6.0,Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,57.20663265306122,13.0,Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,56.9047619047619,14.0,Peer Average
+LICI,Life Insurance,True,Financials,Life Insurance,Large Cap,4,48.6904761904762,26.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,66.16666666666667,3.0,Above Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,64.0,5.0,Above Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,60.05555555555555,10.0,Above Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,59.22222222222222,12.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,59.22222222222221,13.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,58.11111111111111,16.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,58.0,17.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,53.777777777777764,25.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,51.833333333333336,28.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,51.55555555555556,30.0,Peer Average
+RELIANCE,Oil & Gas,True,Energy,Conglomerates,Large Cap,5,51.22222222222222,32.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,61.444444444444436,4.0,Above Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,60.94444444444444,6.0,Above Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,59.55555555555555,10.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,54.94444444444445,15.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,53.22222222222222,22.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,51.722222222222214,27.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,51.666666666666664,28.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,50.16666666666666,33.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,49.44444444444444,35.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,45.166666666666664,47.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,41.666666666666664,54.0,Peer Average
+SUNPHARMA,Pharmaceuticals,True,Healthcare,Pharmaceuticals,Large Cap,5,39.88888888888889,57.0,Below Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,68.07971014492753,11.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,66.95652173913042,13.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,66.37681159420289,15.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,63.514492753623195,16.0,Above Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,57.427536231884055,23.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,57.210144927536234,24.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,56.84782608695653,25.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,56.70289855072463,26.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,56.44927536231884,27.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,55.326086956521735,32.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,55.03623188405797,34.0,Peer Average
+NTPC,Power & Utilities,True,Energy,Power & Utilities,Large Cap,7,50.79710144927537,46.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,71.00000000000001,1.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,66.27777777777779,3.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,64.5,4.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,62.833333333333336,5.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,62.5,6.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,60.5,7.0,Above Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,56.611111111111114,11.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,55.05555555555555,14.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,53.6111111111111,22.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,52.66666666666666,25.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,51.111111111111114,27.0,Peer Average
+HDFCBANK,Private Banks,True,Financials,Private Banks,Large Cap,5,50.222222222222214,30.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,72.08333333333333,2.0,Above Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,62.083333333333336,7.0,Above Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,59.722222222222214,12.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,59.305555555555564,15.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,55.13888888888889,18.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,54.93055555555556,19.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,52.152777777777786,25.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,43.88888888888889,34.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,40.06944444444444,36.0,Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,39.09722222222222,37.0,Below Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,37.56944444444445,39.0,Below Peer Average
+TATASTEEL,Steel,True,Materials,Steel,Mid Cap,4,37.013888888888886,41.0,Below Peer Average
