@@ -1,0 +1,6 @@
+company_id,composite_score,financial_momentum_score,trend_classification,normalized_risk_score,risk_category,primary_risk_driver,quality_score_100,momentum_score_100,safety_score_100,final_investment_score,recommendation,recommendation_confidence,confidence_level,investment_rank
+BEL,73.18932546730971,3,Strong Improvement,6.67,Low Risk,Debt Risk,100.0,85.71,93.33,95.14,Strong Buy,90.28,High Confidence,1
+HAL,58.20671443320665,0,Declining,13.33,Low Risk,Debt Risk,79.45,42.86,86.67,74.3,Buy,48.6,Moderate Confidence,2
+TRENT,25.274905553121737,4,Strong Improvement,6.67,Low Risk,Asset Efficiency Risk,34.29,100.0,93.33,65.14,Buy,30.28,Moderate Confidence,3
+INDIGO,37.52617118088331,1,Improving,6.67,Low Risk,Financial Momentum Risk,51.09,57.14,93.33,64.97,Buy,29.94,Low Confidence,4
+ABB,31.765038020926067,2,Improving,13.33,Low Risk,Asset Efficiency Risk,43.19,71.43,86.67,61.88,Buy,23.76,Low Confidence,5

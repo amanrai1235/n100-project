@@ -1,0 +1,30 @@
+company_id,composite_score,financial_momentum_score,trend_classification,normalized_risk_score,risk_category,primary_risk_driver,quality_score_100,momentum_score_100,safety_score_100,final_investment_score,recommendation,recommendation_confidence,confidence_level,investment_rank
+UNIONBANK,3.698431040801668,2,Improving,73.33,High Risk,Debt Risk,4.7,71.43,26.67,24.64,Avoid,50.72,Moderate Confidence,92
+KOTAKBANK,18.41568301466368,-1,Declining,73.33,High Risk,Debt Risk,24.88,28.57,26.67,26.16,Avoid,47.68,Moderate Confidence,91
+SHRIRAMFIN,18.716305376842985,-1,Declining,73.33,High Risk,Debt Risk,25.3,28.57,26.67,26.36,Avoid,47.28,Moderate Confidence,89
+TATASTEEL,25.40162152615554,-3,Strong Decline,66.67,High Risk,Profitability Risk,34.46,0.0,33.33,27.23,Avoid,45.54,Moderate Confidence,87
+GRASIM,22.670563052295744,-2,Strong Decline,66.67,High Risk,Asset Efficiency Risk,30.72,14.29,33.33,28.22,Avoid,43.56,Moderate Confidence,86
+PFC,10.961001693805825,1,Improving,66.67,High Risk,Debt Risk,14.66,57.14,33.33,28.76,Avoid,42.48,Moderate Confidence,85
+JSWENERGY,23.58060906007282,-2,Strong Decline,66.67,High Risk,Asset Efficiency Risk,31.97,14.29,33.33,28.84,Avoid,42.32,Moderate Confidence,84
+IRFC,11.481723065127207,1,Improving,66.67,High Risk,Debt Risk,15.38,57.14,33.33,29.12,Avoid,41.76,Moderate Confidence,83
+INDUSINDBK,13.70996874947308,1,Improving,66.67,High Risk,Debt Risk,18.43,57.14,33.33,30.64,Avoid,38.72,Moderate Confidence,80
+HDFCBANK,13.723836658166997,1,Improving,66.67,High Risk,Debt Risk,18.45,57.14,33.33,30.65,Avoid,38.7,Moderate Confidence,79
+ADANIGREEN,14.04577695457705,1,Improving,66.67,High Risk,Debt Risk,18.89,57.14,33.33,30.87,Avoid,38.26,Moderate Confidence,78
+BHEL,34.48358109849353,-1,Declining,66.67,High Risk,Interest Coverage Risk,46.92,28.57,33.33,39.17,Avoid,21.66,Low Confidence,66
+CANBK,0.2700347398943996,2,Improving,60.0,High Risk,Debt Risk,0.0,71.43,40.0,26.29,Avoid,47.42,Moderate Confidence,90
+BANKBARODA,4.83508099103992,1,Improving,60.0,High Risk,Debt Risk,6.26,57.14,40.0,26.56,Avoid,46.88,Moderate Confidence,88
+BAJAJFINSV,17.193978618715217,-1,Declining,60.0,High Risk,Debt Risk,23.21,28.57,40.0,29.32,Avoid,41.36,Moderate Confidence,82
+ICICIBANK,14.356089378038972,0,Declining,60.0,High Risk,Debt Risk,19.32,42.86,40.0,30.23,Avoid,39.54,Moderate Confidence,81
+RECLTD,14.571964358080976,1,Improving,60.0,High Risk,Debt Risk,19.61,57.14,40.0,33.23,Avoid,33.54,Moderate Confidence,76
+AXISBANK,11.285347542122594,2,Improving,60.0,High Risk,Debt Risk,15.11,71.43,40.0,33.84,Avoid,32.32,Moderate Confidence,75
+ADANIENSOL,20.20946789635233,0,Declining,60.0,High Risk,Debt Risk,27.34,42.86,40.0,34.24,Avoid,31.52,Moderate Confidence,74
+BHARTIARTL,21.43439349516259,0,Declining,60.0,High Risk,Debt Risk,29.02,42.86,40.0,35.08,Avoid,29.84,Low Confidence,72
+GODREJCP,25.07812836811551,-3,Strong Decline,53.33,High Risk,Profitability Risk,34.02,0.0,46.67,31.01,Avoid,37.98,Moderate Confidence,77
+ADANIENT,22.501657201708756,-1,Declining,53.33,High Risk,Debt Risk,30.49,28.57,46.67,34.96,Avoid,30.08,Moderate Confidence,73
+NTPC,22.86342541941008,0,Declining,53.33,High Risk,Asset Efficiency Risk,30.98,42.86,46.67,38.06,Avoid,23.88,Low Confidence,68
+CHOLAFIN,13.905829292919307,1,Improving,46.67,Moderate Risk,Debt Risk,18.7,57.14,53.33,36.78,Avoid,26.44,Low Confidence,70
+NHPC,24.950840554588677,-1,Declining,46.67,Moderate Risk,Asset Efficiency Risk,33.85,28.57,53.33,38.64,Avoid,22.72,Low Confidence,67
+AMBUJACEM,25.53926564326025,-3,Strong Decline,40.0,Moderate Risk,Financial Momentum Risk,34.65,0.0,60.0,35.33,Avoid,29.34,Low Confidence,71
+MOTHERSON,24.6042807666619,-2,Strong Decline,40.0,Moderate Risk,Financial Momentum Risk,33.37,14.29,60.0,37.54,Avoid,24.92,Low Confidence,69
+LICI,27.30516858241988,-2,Strong Decline,40.0,Moderate Risk,Asset Efficiency Risk,37.08,14.29,60.0,39.4,Avoid,21.2,Low Confidence,65
+LTIM,26.20375286136364,-3,Strong Decline,26.67,Moderate Risk,Financial Momentum Risk,35.56,0.0,73.33,39.78,Avoid,20.44,Low Confidence,64

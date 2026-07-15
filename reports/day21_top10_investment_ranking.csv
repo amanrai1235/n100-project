@@ -1,0 +1,11 @@
+investment_rank,company_id,final_investment_score,recommendation,normalized_risk_score,trend_classification,confidence_level
+1,BEL,95.14,Strong Buy,6.67,Strong Improvement,High Confidence
+2,HAL,74.3,Buy,13.33,Declining,Moderate Confidence
+3,TRENT,65.14,Buy,6.67,Strong Improvement,Moderate Confidence
+4,INDIGO,64.97,Buy,6.67,Improving,Low Confidence
+5,ABB,61.88,Buy,13.33,Improving,Low Confidence
+6,TATAMOTORS,59.82,Hold,20.0,Strong Improvement,Low Confidence
+7,PIDILITIND,59.34,Hold,13.33,Improving,Low Confidence
+8,NESTLEIND,58.44,Hold,6.67,Improving,Low Confidence
+9,LT,58.3,Hold,13.33,Improving,Low Confidence
+10,MARUTI,58.06,Hold,13.33,Improving,Low Confidence

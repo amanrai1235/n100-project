@@ -1,0 +1,93 @@
+company_id,composite_score,financial_momentum_score,trend_classification,normalized_risk_score,risk_category,primary_risk_driver,quality_score_100,momentum_score_100,safety_score_100,final_investment_score,recommendation,recommendation_confidence,confidence_level,investment_rank
+BEL,73.18932546730971,3,Strong Improvement,6.67,Low Risk,Debt Risk,100.0,85.71,93.33,95.14,Strong Buy,90.28,High Confidence,1
+HAL,58.20671443320665,0,Declining,13.33,Low Risk,Debt Risk,79.45,42.86,86.67,74.3,Buy,48.6,Moderate Confidence,2
+TRENT,25.274905553121737,4,Strong Improvement,6.67,Low Risk,Asset Efficiency Risk,34.29,100.0,93.33,65.14,Buy,30.28,Moderate Confidence,3
+INDIGO,37.52617118088331,1,Improving,6.67,Low Risk,Financial Momentum Risk,51.09,57.14,93.33,64.97,Buy,29.94,Low Confidence,4
+ABB,31.765038020926067,2,Improving,13.33,Low Risk,Asset Efficiency Risk,43.19,71.43,86.67,61.88,Buy,23.76,Low Confidence,5
+TATAMOTORS,23.349936074422565,4,Strong Improvement,20.0,Low Risk,Debt Risk,31.65,100.0,80.0,59.82,Hold,19.64,Low Confidence,6
+PIDILITIND,28.05180900555733,2,Improving,13.33,Low Risk,Asset Efficiency Risk,38.1,71.43,86.67,59.34,Hold,18.68,Low Confidence,7
+NESTLEIND,28.004046106336716,1,Improving,6.67,Low Risk,Financial Momentum Risk,38.03,57.14,93.33,58.44,Hold,16.88,Low Confidence,8
+LT,26.53890818951801,2,Improving,13.33,Low Risk,Interest Coverage Risk,36.02,71.43,86.67,58.3,Hold,16.6,Low Confidence,9
+MARUTI,26.186648495196287,2,Improving,13.33,Low Risk,Asset Efficiency Risk,35.54,71.43,86.67,58.06,Hold,16.12,Low Confidence,10
+TCS,26.132184586191595,2,Improving,13.33,Low Risk,Asset Efficiency Risk,35.47,71.43,86.67,58.02,Hold,16.04,Low Confidence,11
+BRITANNIA,28.394906732339333,2,Improving,20.0,Low Risk,Debt Risk,38.57,71.43,80.0,57.57,Hold,15.14,Low Confidence,12
+ADANIPOWER,24.092773705313792,3,Strong Improvement,20.0,Low Risk,Asset Efficiency Risk,32.67,85.71,80.0,57.48,Hold,14.96,Low Confidence,13
+BPCL,24.496845450240077,2,Improving,13.33,Low Risk,Debt Risk,33.22,71.43,86.67,56.9,Hold,13.8,Low Confidence,14
+LODHA,24.756340501330637,3,Strong Improvement,26.67,Moderate Risk,Asset Efficiency Risk,33.58,85.71,73.33,55.93,Hold,11.86,Low Confidence,15
+BAJAJ-AUTO,26.65580354208872,1,Improving,13.33,Low Risk,Asset Efficiency Risk,36.18,57.14,86.67,55.52,Hold,11.04,Low Confidence,16
+BAJAJHLDNG,31.187215673737484,2,Improving,33.33,Moderate Risk,Asset Efficiency Risk,42.4,71.43,66.67,55.49,Hold,10.98,Low Confidence,17
+ADANIPORTS,23.801812950814803,3,Strong Improvement,26.67,Moderate Risk,Asset Efficiency Risk,32.27,85.71,73.33,55.28,Hold,10.56,Low Confidence,18
+DMART,25.87762612966504,1,Improving,13.33,Low Risk,Profitability Risk,35.12,57.14,86.67,54.99,Hold,9.98,Low Confidence,19
+TORNTPHARM,27.487943718517105,2,Improving,26.67,Moderate Risk,Asset Efficiency Risk,37.33,71.43,73.33,54.95,Hold,9.9,Low Confidence,20
+IOC,24.311887356256037,2,Improving,20.0,Low Risk,Debt Risk,32.97,71.43,80.0,54.77,Hold,9.54,Low Confidence,21
+BAJFINANCE,38.83155382980821,1,Improving,46.67,Moderate Risk,Debt Risk,52.88,57.14,53.33,53.87,Hold,7.74,Low Confidence,22
+HEROMOTOCO,27.455227847247297,0,Declining,13.33,Low Risk,Asset Efficiency Risk,37.28,42.86,86.67,53.21,Hold,6.42,Low Confidence,23
+DRREDDY,25.66477077103486,1,Improving,20.0,Low Risk,Asset Efficiency Risk,34.83,57.14,80.0,52.84,Hold,5.68,Low Confidence,24
+ICICIGI,27.683981613967436,1,Improving,26.67,Moderate Risk,Asset Efficiency Risk,37.59,57.14,73.33,52.22,Hold,4.44,Low Confidence,25
+ICICIPRULI,26.23330666268207,2,Improving,33.33,Moderate Risk,Asset Efficiency Risk,35.61,71.43,66.67,52.09,Hold,4.18,Low Confidence,26
+NAUKRI,32.681642335798315,1,Improving,40.0,Moderate Risk,Asset Efficiency Risk,44.45,57.14,60.0,51.65,Hold,3.3,Low Confidence,27
+BOSCHLTD,27.18508855172415,0,Declining,20.0,Low Risk,Asset Efficiency Risk,36.91,42.86,80.0,51.03,Hold,2.06,Low Confidence,28
+TATACONSUM,29.76771282939156,0,Declining,26.67,Moderate Risk,Asset Efficiency Risk,40.45,42.86,73.33,50.8,Hold,1.6,Low Confidence,29
+EICHERMOT,26.64637941202356,0,Declining,20.0,Low Risk,Asset Efficiency Risk,36.17,42.86,80.0,50.66,Hold,1.32,Low Confidence,30
+ULTRACEMCO,25.347073283165216,1,Improving,26.67,Moderate Risk,Asset Efficiency Risk,34.39,57.14,73.33,50.62,Hold,1.24,Low Confidence,31
+HDFCLIFE,28.024220153361053,1,Improving,33.33,Moderate Risk,Asset Efficiency Risk,38.06,57.14,66.67,50.46,Hold,0.92,Low Confidence,32
+SIEMENS,26.138758866602284,0,Declining,20.0,Low Risk,Asset Efficiency Risk,35.48,42.86,80.0,50.31,Hold,0.62,Low Confidence,33
+CIPLA,25.999660239487252,0,Declining,20.0,Low Risk,Asset Efficiency Risk,35.29,42.86,80.0,50.22,Hold,0.44,Low Confidence,34
+JINDALSTEL,24.67228371413501,1,Improving,26.67,Moderate Risk,Asset Efficiency Risk,33.46,57.14,73.33,50.16,Hold,0.32,Low Confidence,35
+GAIL,25.25247135608137,0,Declining,20.0,Low Risk,Profitability Risk,34.26,42.86,80.0,49.7,Hold,0.6,Low Confidence,36
+DLF,26.429334475161216,1,Improving,33.33,Moderate Risk,Asset Efficiency Risk,35.87,57.14,66.67,49.36,Hold,1.28,Low Confidence,37
+ONGC,24.59834218778952,0,Declining,20.0,Low Risk,Asset Efficiency Risk,33.36,42.86,80.0,49.25,Hold,1.5,Low Confidence,38
+HAVELLS,28.565277550392985,-1,Declining,20.0,Low Risk,Financial Momentum Risk,38.8,28.57,80.0,49.11,Hold,1.78,Low Confidence,39
+SBILIFE,26.02752854077212,1,Improving,33.33,Moderate Risk,Asset Efficiency Risk,35.32,57.14,66.67,49.09,Hold,1.82,Low Confidence,40
+APOLLOHOSP,26.528862896447592,0,Declining,26.67,Moderate Risk,Debt Risk,36.01,42.86,73.33,48.58,Hold,2.84,Low Confidence,41
+PNB,19.665955029053567,3,Strong Improvement,40.0,Moderate Risk,Debt Risk,26.6,85.71,60.0,48.44,Hold,3.12,Low Confidence,42
+SHREECEM,26.007971703682845,0,Declining,26.67,Moderate Risk,Asset Efficiency Risk,35.3,42.86,73.33,48.22,Hold,3.56,Low Confidence,43
+ASIANPAINT,26.363507026209845,-1,Declining,20.0,Low Risk,Financial Momentum Risk,35.78,28.57,80.0,47.6,Hold,4.8,Low Confidence,44
+HCLTECH,26.01477125492685,-1,Declining,20.0,Low Risk,Financial Momentum Risk,35.31,28.57,80.0,47.37,Hold,5.26,Low Confidence,45
+ITC,28.10527933948204,-1,Declining,26.67,Moderate Risk,Asset Efficiency Risk,38.17,28.57,73.33,46.8,Hold,6.4,Low Confidence,46
+DABUR,27.81921775925679,-1,Declining,26.67,Moderate Risk,Asset Efficiency Risk,37.78,28.57,73.33,46.6,Hold,6.8,Low Confidence,47
+TITAN,23.47218484649424,0,Declining,26.67,Moderate Risk,Debt Risk,31.82,42.86,73.33,46.48,Hold,7.04,Low Confidence,48
+HINDALCO,25.32512565323181,0,Declining,33.33,Moderate Risk,Asset Efficiency Risk,34.36,42.86,66.67,45.75,Hold,8.5,Low Confidence,49
+HINDUNILVR,26.484007033949798,-1,Declining,26.67,Moderate Risk,Asset Efficiency Risk,35.95,28.57,73.33,45.69,Hold,8.62,Low Confidence,50
+SUNPHARMA,25.837812357236803,-1,Declining,26.67,Moderate Risk,Asset Efficiency Risk,35.06,28.57,73.33,45.24,Hold,9.52,Low Confidence,51
+RELIANCE,24.2468040142809,0,Declining,33.33,Moderate Risk,Asset Efficiency Risk,32.88,42.86,66.67,45.01,Hold,9.98,Low Confidence,52
+JIOFIN,26.202535756371187,0,Declining,40.0,Moderate Risk,Asset Efficiency Risk,35.56,42.86,60.0,44.35,Hold,11.3,Low Confidence,53
+TVSMOTOR,20.05960165243261,2,Improving,46.67,Moderate Risk,Debt Risk,27.14,71.43,53.33,43.86,Hold,12.28,Low Confidence,54
+TECHM,30.85032565664247,-2,Strong Decline,33.33,Moderate Risk,Financial Momentum Risk,41.94,14.29,66.67,43.83,Hold,12.34,Low Confidence,55
+JSWSTEEL,23.570612470865555,1,Improving,46.67,Moderate Risk,Debt Risk,31.95,57.14,53.33,43.4,Hold,13.2,Low Confidence,56
+POWERGRID,23.208192879591845,1,Improving,46.67,Moderate Risk,Asset Efficiency Risk,31.46,57.14,53.33,43.16,Hold,13.68,Low Confidence,57
+IRCTC,29.724665400470386,-2,Strong Decline,33.33,Moderate Risk,Financial Momentum Risk,40.39,14.29,66.67,43.05,Hold,13.9,Low Confidence,58
+DIVISLAB,32.12732339067209,-2,Strong Decline,40.0,Moderate Risk,Financial Momentum Risk,43.69,14.29,60.0,42.7,Hold,14.6,Low Confidence,59
+INFY,26.114845944457013,-2,Strong Decline,26.67,Moderate Risk,Financial Momentum Risk,35.44,14.29,73.33,42.58,Hold,14.84,Low Confidence,60
+M&M,22.63967373453169,0,Declining,40.0,Moderate Risk,Debt Risk,30.68,42.86,60.0,41.91,Hold,16.18,Low Confidence,61
+TATAPOWER,22.75624296193692,1,Improving,53.33,High Risk,Asset Efficiency Risk,30.84,57.14,46.67,40.85,Hold,18.3,Low Confidence,62
+COALINDIA,25.44209971040043,-2,Strong Decline,33.33,Moderate Risk,Financial Momentum Risk,34.52,14.29,66.67,40.12,Hold,19.76,Low Confidence,63
+LTIM,26.20375286136364,-3,Strong Decline,26.67,Moderate Risk,Financial Momentum Risk,35.56,0.0,73.33,39.78,Avoid,20.44,Low Confidence,64
+LICI,27.30516858241988,-2,Strong Decline,40.0,Moderate Risk,Asset Efficiency Risk,37.08,14.29,60.0,39.4,Avoid,21.2,Low Confidence,65
+BHEL,34.48358109849353,-1,Declining,66.67,High Risk,Interest Coverage Risk,46.92,28.57,33.33,39.17,Avoid,21.66,Low Confidence,66
+NHPC,24.950840554588677,-1,Declining,46.67,Moderate Risk,Asset Efficiency Risk,33.85,28.57,53.33,38.64,Avoid,22.72,Low Confidence,67
+NTPC,22.86342541941008,0,Declining,53.33,High Risk,Asset Efficiency Risk,30.98,42.86,46.67,38.06,Avoid,23.88,Low Confidence,68
+MOTHERSON,24.6042807666619,-2,Strong Decline,40.0,Moderate Risk,Financial Momentum Risk,33.37,14.29,60.0,37.54,Avoid,24.92,Low Confidence,69
+CHOLAFIN,13.905829292919307,1,Improving,46.67,Moderate Risk,Debt Risk,18.7,57.14,53.33,36.78,Avoid,26.44,Low Confidence,70
+AMBUJACEM,25.53926564326025,-3,Strong Decline,40.0,Moderate Risk,Financial Momentum Risk,34.65,0.0,60.0,35.33,Avoid,29.34,Low Confidence,71
+BHARTIARTL,21.43439349516259,0,Declining,60.0,High Risk,Debt Risk,29.02,42.86,40.0,35.08,Avoid,29.84,Low Confidence,72
+ADANIENT,22.501657201708756,-1,Declining,53.33,High Risk,Debt Risk,30.49,28.57,46.67,34.96,Avoid,30.08,Moderate Confidence,73
+ADANIENSOL,20.20946789635233,0,Declining,60.0,High Risk,Debt Risk,27.34,42.86,40.0,34.24,Avoid,31.52,Moderate Confidence,74
+AXISBANK,11.285347542122594,2,Improving,60.0,High Risk,Debt Risk,15.11,71.43,40.0,33.84,Avoid,32.32,Moderate Confidence,75
+RECLTD,14.571964358080976,1,Improving,60.0,High Risk,Debt Risk,19.61,57.14,40.0,33.23,Avoid,33.54,Moderate Confidence,76
+GODREJCP,25.07812836811551,-3,Strong Decline,53.33,High Risk,Profitability Risk,34.02,0.0,46.67,31.01,Avoid,37.98,Moderate Confidence,77
+ADANIGREEN,14.04577695457705,1,Improving,66.67,High Risk,Debt Risk,18.89,57.14,33.33,30.87,Avoid,38.26,Moderate Confidence,78
+HDFCBANK,13.723836658166997,1,Improving,66.67,High Risk,Debt Risk,18.45,57.14,33.33,30.65,Avoid,38.7,Moderate Confidence,79
+INDUSINDBK,13.70996874947308,1,Improving,66.67,High Risk,Debt Risk,18.43,57.14,33.33,30.64,Avoid,38.72,Moderate Confidence,80
+ICICIBANK,14.356089378038972,0,Declining,60.0,High Risk,Debt Risk,19.32,42.86,40.0,30.23,Avoid,39.54,Moderate Confidence,81
+BAJAJFINSV,17.193978618715217,-1,Declining,60.0,High Risk,Debt Risk,23.21,28.57,40.0,29.32,Avoid,41.36,Moderate Confidence,82
+IRFC,11.481723065127207,1,Improving,66.67,High Risk,Debt Risk,15.38,57.14,33.33,29.12,Avoid,41.76,Moderate Confidence,83
+JSWENERGY,23.58060906007282,-2,Strong Decline,66.67,High Risk,Asset Efficiency Risk,31.97,14.29,33.33,28.84,Avoid,42.32,Moderate Confidence,84
+PFC,10.961001693805825,1,Improving,66.67,High Risk,Debt Risk,14.66,57.14,33.33,28.76,Avoid,42.48,Moderate Confidence,85
+GRASIM,22.670563052295744,-2,Strong Decline,66.67,High Risk,Asset Efficiency Risk,30.72,14.29,33.33,28.22,Avoid,43.56,Moderate Confidence,86
+TATASTEEL,25.40162152615554,-3,Strong Decline,66.67,High Risk,Profitability Risk,34.46,0.0,33.33,27.23,Avoid,45.54,Moderate Confidence,87
+BANKBARODA,4.83508099103992,1,Improving,60.0,High Risk,Debt Risk,6.26,57.14,40.0,26.56,Avoid,46.88,Moderate Confidence,88
+SHRIRAMFIN,18.716305376842985,-1,Declining,73.33,High Risk,Debt Risk,25.3,28.57,26.67,26.36,Avoid,47.28,Moderate Confidence,89
+CANBK,0.2700347398943996,2,Improving,60.0,High Risk,Debt Risk,0.0,71.43,40.0,26.29,Avoid,47.42,Moderate Confidence,90
+KOTAKBANK,18.41568301466368,-1,Declining,73.33,High Risk,Debt Risk,24.88,28.57,26.67,26.16,Avoid,47.68,Moderate Confidence,91
+UNIONBANK,3.698431040801668,2,Improving,73.33,High Risk,Debt Risk,4.7,71.43,26.67,24.64,Avoid,50.72,Moderate Confidence,92
