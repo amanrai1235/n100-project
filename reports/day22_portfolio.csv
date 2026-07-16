@@ -1,0 +1,6 @@
+portfolio_rank,company_id,recommendation,allocation_percent,composite_score,quality_score_100,momentum_score_100,normalized_risk_score,risk_category,trend_classification
+1,BEL,Strong Buy,32.39,73.18932546730971,100.0,85.71,6.67,Low Risk,Strong Improvement
+2,HAL,Buy,25.76,58.20671443320665,79.45,42.86,13.33,Low Risk,Declining
+3,INDIGO,Hold,16.61,37.52617118088331,51.09,57.14,6.67,Low Risk,Improving
+4,ABB,Hold,14.06,31.765038020926067,43.19,71.43,13.33,Low Risk,Improving
+5,TRENT,Watch,11.19,25.274905553121737,34.29,100.0,6.67,Low Risk,Strong Improvement
