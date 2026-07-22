@@ -1,0 +1,8 @@
+table,rows,columns,missing_values,duplicate_rows,status
+companies,93,12,9,0,PASS
+analysis,21,6,0,0,PASS
+balancesheet,1313,13,0,0,PASS
+cashflow,1188,7,8,0,PASS
+profitandloss,1277,15,231,0,PASS
+documents,1586,4,52,0,PASS
+prosandcons,17,4,6,0,PASS
