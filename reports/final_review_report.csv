@@ -1,0 +1,14 @@
+File,Exists
+../output/analysis_parsed.csv,True
+../output/parse_failures.csv,True
+../output/cagr_validation.csv,True
+../output/financial_metrics_standardized.csv,True
+../output/category_summary.csv,True
+../output/company_summary.csv,True
+../output/dashboard_kpis.csv,True
+../output/category_insights.csv,True
+../output/company_insights.csv,True
+../output/dashboard_company_dataset.csv,True
+../output/dashboard_category_dataset.csv,True
+../output/dashboard_summary.csv,True
+../reports/dashboard_testing_report.csv,True
