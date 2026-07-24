@@ -1,0 +1,4 @@
+metric_category,total_metrics,avg_value,max_value,min_value,Insight,Dashboard_Type
+Growth,30,13.1,30.0,0.0,Moderate,Category
+Profitability,14,25.0,47.0,13.0,Strong,Category
+Returns,18,14.5,39.0,4.0,Moderate,Category
